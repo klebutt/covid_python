@@ -17,3 +17,5 @@ I have chosen this data because it is a very current issue which is having a hug
 •	How do rates of covid-19 compare amongst countries with a similar population?  
 •	How do rates of cardiovascular disease effect hospitalisations due to covid-19?  
 
+Link to Tableau storyboard containing the most interesting analysis results:  
+https://public.tableau.com/profile/kieran.le.butt3275#!/vizhome/Covid_16185882205060/NewCases
