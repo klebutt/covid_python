@@ -1,14 +1,14 @@
 # covid_python
 Personal project analysing covid_19, conducted in python.  
 
-Data Source
+## Data Source  
 Covid-19 dataset from Our World in Data (OWID):  
 Website: https://www.ourworldindata.org/coronavirus   
 GitHub: https://www.github.com/owid/covid-19-data/tree/master/public/data  
 This is an external and open-source dataset. OWID collects data from governmental organisations around the world and compiles it in to one csv file. There are limitations to the collection of data, as different governments have different practises for collecting and sharing data.   
 I have chosen this data because it is a very current issue which is having a huge impact on peoples lives across the globe. There is also a large volume of data to analysis which makes it an interesting project.   
 
-Questions to Explore  
+## Questions to Explore  
 •	How is the stringency of countries lockdowns related to cases of covid-19?  
 •	How is the population density of countries related to cases of covid-19?  
 •	How are HDI ratings related to covid-19 deaths?  
